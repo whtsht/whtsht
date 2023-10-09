@@ -4,7 +4,7 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=whtsht&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=whtsht&theme=tokyonight)](https://github.com/whtsht/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=whtsht&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Languages
 <img src="https://skillicons.dev/icons?i=rust,python,html,css,javascript,wasm,typescript,c" /> <br />
