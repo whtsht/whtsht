@@ -8,7 +8,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=whtsht&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Languages
-<img src="https://skillicons.dev/icons?i=rust,python,html,css,javascript,wasm,typescript,c" /> <br />
+<img src="https://skillicons.dev/icons?i=rust,python,html,css,javascript,wasm,typescript,c,haskell" /> <br />
 
 ## Frameworks
 <img src="https://skillicons.dev/icons?i=react,svelte,flask,tauri" /> <br />
