@@ -7,15 +7,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=whtsht&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Languages
-<img src="https://skillicons.dev/icons?i=rust,python,html,css,javascript,wasm,typescript,c,haskell" /> <br />
-
-## Frameworks
-<img src="https://skillicons.dev/icons?i=react,svelte,flask,tauri" /> <br />
-
-## Tools
-<img src="https://skillicons.dev/icons?i=docker,neovim,vscode,git,github" /> <br />
-
 <div>
   <img align="left" src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="160"/>
   </br></br>
