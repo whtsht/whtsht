@@ -1,12 +1,11 @@
-Hello :)
+
+### Hello :)
 
 ---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=whtsht&theme=tokyonight" alt="Streak Stats" style="width: 60%; height: auto;">
-<img src="https://github-readme-stats.vercel.app/api?username=whtsht&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="width: 60%; height: auto;">
- 
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=whtsht&theme=tokyonight&row=1&column=9)](https://github.com/ryo-ma/github-profile-trophy)
-
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whtsht&theme=tokyonight" alt="Streak Stats" style="height: 200px;">&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=whtsht&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="height: 200px;">&nbsp;&nbsp;
+  <img src="https://github-profile-trophy.vercel.app/?username=whtsht&theme=tokyonight&row=2&column=4" alt="GitHub Trophy" style="height: 200px;">&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whtsht&layout=compact&count_weight=1&theme=tokyonight" alt="Top Languages" style="height: 200px;">&nbsp;&nbsp;
+</div>
