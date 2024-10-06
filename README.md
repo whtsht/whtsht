@@ -3,7 +3,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=whtsht&theme=tokyonight" alt="Streak Stats" style="height: 200px;">&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=whtsht&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="height: 200px;">&nbsp;&nbsp;
   <img src="https://github-profile-trophy.vercel.app/?username=whtsht&theme=tokyonight&row=2&column=4" alt="GitHub Trophy" style="height: 200px;">&nbsp;&nbsp;
