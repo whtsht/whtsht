@@ -4,11 +4,11 @@
 ---
 
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whtsht&theme=tokyonight" alt="Streak Stats" style="height: 50%;">&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whtsht&theme=tokyonight" alt="Streak Stats" style="height: 40%;">&nbsp;&nbsp;
 
 ---
   
-  <img src="https://github-readme-stats.vercel.app/api?username=whtsht&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="height: 50%;">&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=whtsht&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="height: 40%;">&nbsp;&nbsp;
   
 ---
 
